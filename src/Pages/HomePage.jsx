@@ -23,8 +23,6 @@ const HomePage = () => {
           <h1 className="mb-4">
             Temukan <br /> <span>Liburan Yang Seru</span> <br />Bersama Kami!
             </h1>
-            <p className="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, ipsam id veniam, maiores harum aliquid nemo aliquam accusamus sed amet commodi error, magnam quis saepe nobis eaque deserunt sapiente sunt!</p>
-            <button className="btn btn-danger btn-lg rounded-1 me-2 mb-xs-0 mb-2 ">Selengkapnya</button>
           </Col>
           <Col lg="6" className="pt-lg-0 pt-5">
           <img src={HeroImage} alt="hero-image" />
